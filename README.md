@@ -12,7 +12,13 @@ advanced python (bradesco foundation)
 advanced postman +real projects (udemy)
 [NEW] AWS Certified Advanced Networking Specialty 2025 (udemy)
 front-end immersion(alura)
-creating a project with
+creating a project using python(Bradesco Foundation)
+create a website using HTML CSS JAVASCRIPT (bradesco foundation)
+English course (Sobral language center)
+machine learning(udemy)
+typescript(C/typescript/react/express)-(udemy)
+React Complete(origamid)
+
 
 ## Real Projects 💻
 
