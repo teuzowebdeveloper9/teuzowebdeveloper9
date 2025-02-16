@@ -1,6 +1,6 @@
 # Hello, I'm Teuzin! 👋
 
-#I want first place on the podium in a competition against myself
+# I want first place on the podium in a competition against myself
 
 
 
