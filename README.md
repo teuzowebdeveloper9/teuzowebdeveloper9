@@ -1,7 +1,39 @@
-# Hello, I'm Teuzin! 👋
+# Olá! Eu sou o Teuzo Web Developer 👋
 
-# I want first place on the podium in a competition against myself
+Sou um desenvolvedor web apaixonado por tecnologia e sempre buscando aprender e aprimorar minhas habilidades. Recentemente, aprendi algumas linguagens de programação que estão me ajudando a construir uma base sólida no desenvolvimento web.
 
+## Linguagens que aprendi:
 
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- Java (preciso treinar mais)
 
-I'm a young programmer who recently started university and has quickly fallen in love with the world of programming. Through various courses on Udemy, I've expanded my knowledge, especially in technologies like SQL, PHP, Python, and API integration. Among these, Python is my true passion, and I feel most at home when working with it. I love how Python allows me to write clean, functional code for multitasking, from automations to web scripts. Every day, I grow more excited by its versatility and the endless possibilities it offers. Python is my language, and I'm just getting started! I’m also working on some practical projects, which I’m posting on my GitHub.
+## Foco Atual
+
+Atualmente, estou focado em melhorar minha base nessas linguagens para garantir um entendimento sólido antes de me aventurar em frameworks mais complexos.
+
+## Frameworks Interessantes
+
+Estou de olho em alguns frameworks bem legais que pretendo aprender no futuro:
+
+- Laravel
+- React.js
+- Vue.js
+- Django
+- Flask
+- web2py
+- Spring
+
+## Objetivo
+
+Sei que no momento preciso fortificar minha base, assim como mencionei no meu antigo README.md. Ainda estou lutando comigo mesmo pelo primeiro lugar no topo do pódio, buscando sempre melhorar e alcançar novos patamares na minha carreira como desenvolvedor.
+
+## Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/teuzowebdeveloper9/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
+
+Vamos nos conectar e compartilhar conhecimentos!
