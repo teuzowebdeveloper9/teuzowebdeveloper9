@@ -33,7 +33,7 @@ Sei que no momento preciso fortificar minha base, assim como mencionei no meu an
 
 ## Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAFbXwTUBrQBlP96QVCLidamklhn10g9xmFM&keywords=Mateus%20Da%20Silva%20Oliveira&origin=ENTITY_SEARCH_HOME_HISTORY&sid=-L~)
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
 
 Vamos nos conectar e compartilhar conhecimentos!
