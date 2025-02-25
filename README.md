@@ -1,5 +1,7 @@
 # Hello! I'm Teuzo Web Developer 👋
 
+![Hello](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+
 I am a web developer passionate about technology and always looking to learn and improve my skills. Recently, I have learned some programming languages that are helping me build a solid foundation in web development.
 
 ## Languages I have learned:
@@ -42,8 +44,6 @@ Here are some of the main technologies I am using and learning:
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ## GitHub Stats
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
 
 ## Goal
