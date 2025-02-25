@@ -41,6 +41,11 @@ Here are some of the main technologies I am using and learning:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
+## GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
+
 ## Goal
 
 I know that at the moment I need to strengthen my foundation, as I mentioned in my old README.md. I am still fighting with myself for the first place on the podium, always striving to improve and reach new heights in my career as a developer.
