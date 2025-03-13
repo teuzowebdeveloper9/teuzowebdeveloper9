@@ -4,7 +4,7 @@
 
 I am a web developer passionate about technology and always looking to learn and improve my skills. Recently, I have learned some programming languages that are helping me build a solid foundation in web development.
 
-## Languages I have learned:
+## Languages I Have Learned
 
 - HTML
 - CSS
@@ -44,7 +44,13 @@ Here are some of the main technologies I am using and learning:
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ## GitHub Stats
+
+![Teuzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuzowebdeveloper9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
+
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=teuzowebdeveloper9&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Goal
 
