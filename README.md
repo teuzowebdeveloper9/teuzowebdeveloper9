@@ -45,12 +45,8 @@ Here are some of the main technologies I am using and learning:
 
 ## GitHub Stats
 
-![Teuzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuzowebdeveloper9&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
-
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=teuzowebdeveloper9&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Goal
 
