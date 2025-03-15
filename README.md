@@ -39,6 +39,10 @@ Atualmente, estou focado em fortalecer minha base de conhecimento e me aprimorar
 
 ## 🤝 Conecte-se Comigo  
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-da-silva-oliveira-aa6722356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.wow/profilecard/?igsh=MmZwMnptYzJyNW4x  )
 
 Vamos compartilhar conhecimento e evoluir juntos!  
