@@ -1,6 +1,3 @@
-
----
-
 # 👋 Olá! Eu sou Teuzo, Web Developer  
 
 ![Hello](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)  
@@ -37,14 +34,9 @@ Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprendiz
 
 Atualmente, estou focado em fortalecer minha base de conhecimento e me aprimorar constantemente para alcançar novos patamares na minha carreira como desenvolvedor. Sempre busco desafios que me ajudem a crescer e evoluir.  
 
-
-
-
 ## Connect with me
 
-
-[![Instagram]()](  https://www.instagram.com/mateus.durr?igsh=aHBieGdoeThjMGYz  )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.durr?igsh=aHBieGdoeThjMGYz)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
 
-
-Vamos compartilhar conhecimento e evoluir juntos!  
+Vamos compartilhar conhecimento e evoluir juntos!
