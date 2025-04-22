@@ -1,42 +1,72 @@
-# 👋 Olá! Eu sou Teuzo, Web Developer  
+# 👋 Olá! Eu sou Teuzo — Web Developer
 
-![Hello](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)  
+![Hello](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprendizado e aprimoramento contínuo. Atualmente, estou consolidando minhas habilidades em várias linguagens e explorando novos frameworks para expandir meu conhecimento.  
+Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado contínuo. Estou constantemente evoluindo, estudando e praticando para alcançar um alto nível técnico e construir soluções de impacto.
 
-## 🚀 Tecnologias Principais  
+---
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)  
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)  
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
+## 🧠 Sobre Mim
 
-## 📊 Estatísticas do GitHub  
+- Estudo **programação todos os dias por no mínimo 6 horas** — seja aprofundando tecnologias, criando projetos próprios ou resolvendo desafios técnicos.
+- Estou em constante aprendizado, sempre buscando entender o "porquê" por trás das soluções.
+- Acredito que dedicação e consistência são as chaves para evoluir de verdade nessa área.
 
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)    
+## 🚀 Tecnologias que domino
 
+### 💻 Linguagens
 
-## 🎯 Meu Objetivo  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]  
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]  
 
-Atualmente, estou focado em fortalecer minha base de conhecimento e me aprimorar constantemente para alcançar novos patamares na minha carreira como desenvolvedor. Sempre busco desafios que me ajudem a crescer e evoluir.  
+### 🗄️ Banco de Dados
 
-## Connect with me
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]  
+
+### 🌐 Frameworks e Plataformas
+
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]  
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]  
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]  
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]  
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)]  
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]  
+
+### ☁️ Deploy e Hospedagem
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é conquistar minha primeira oportunidade profissional na área e demonstrar que minha dedicação diária e projetos pessoais são reflexos do quanto levo essa carreira a sério.
+
+Cada linha de código que escrevo carrega esforço, estudo e propósito. Estou pronto para aprender com os melhores e contribuir com todo o meu potencial.
+
+---
+
+## 🤝 Conecte-se Comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.durr?igsh=aHBieGdoeThjMGYz)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
 
-Vamos compartilhar conhecimento e evoluir juntos!
+---
+
+**Vamos compartilhar conhecimento e crescer juntos. Obrigado por visitar meu perfil!**
