@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou Teuzo — Web Developer - #SOU_DIO_CAMPUS_EXPERT
+# 👋 Olá! Eu sou Teuzo — Web Developer -
+
+ #SOU_DIO_CAMPUS_EXPERT
 
 
 ![1_sUI4nkPfH0wevBQMb29cnQ](https://github.com/user-attachments/assets/37ce95f3-6cd9-4452-b5c1-9ccba9caf84c)
