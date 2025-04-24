@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Teuzo — Web Developer
 
 
-![image](https://github.com/user-attachments/assets/e8df9add-09b2-4cb4-b450-3fb48e5c2425)
+![1_sUI4nkPfH0wevBQMb29cnQ](https://github.com/user-attachments/assets/f2485efc-3a62-4542-995d-a20336fbc53f)
 
 
 
