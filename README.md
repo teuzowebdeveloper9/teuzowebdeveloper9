@@ -89,7 +89,7 @@ Cada linha de código que escrevo carrega esforço, estudo e propósito. Estou p
 
 ## 🤝 Conecte-se Comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teteu.dev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/teuzowebdeveloper9)
 
 ---
