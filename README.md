@@ -19,7 +19,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ## 🧠 Sobre Mim
 
-- Estudo **programação todos os dias por no mínimo 6 horas** — seja aprofundando tecnologias, criando projetos próprios ou resolvendo desafios técnicos.
+- Estudo **programação todos os dias por no mínimo 8 horas** — seja aprofundando tecnologias, criando projetos próprios ou resolvendo desafios técnicos.
 - Estou em constante aprendizado, sempre buscando entender o "porquê" por trás das soluções.
 - Acredito que dedicação e consistência são as chaves para evoluir de verdade nessa área.
 
@@ -63,9 +63,18 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
 
+---
+# SOU DIO CAMPUS EXPERT
 
+Essa conquista veio com muita dedicação, estudos e prática intensa nos bootcamps e trilhas da DIO. Eu mergulhei de cabeça no conteúdo da plataforma, enfrentei desafios, construí projetos e aproveitei cada oportunidade de aprendizado.
 
+Hoje, como uma das vozes jovens da DIO, posso dizer com orgulho que venho representando uma nova geração de desenvolvedores que está crescendo com apoio, incentivo e educação de qualidade.
 
+A missão da DIO é clara: democratizar o acesso à educação tech e ajudar iniciantes em programação a crescer rapidamente, conectando teoria com prática e aproximando talentos de grandes empresas.
+
+Se você também quer trilhar esse caminho, não perde tempo! Se cadastra agora mesmo e começa a construir seu futuro na programação:
+
+![crie seu futuro na tecnologia com a dio](https://www.dio.me/sign-up?ref=4A1512D39D6D4FB294B8F64196E568F7)
 ---
 
 ## 🎯 Objetivo
