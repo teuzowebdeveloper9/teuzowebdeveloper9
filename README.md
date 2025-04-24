@@ -74,7 +74,9 @@ A missão da DIO é clara: democratizar o acesso à educação tech e ajudar ini
 
 Se você também quer trilhar esse caminho, não perde tempo! Se cadastra agora mesmo e começa a construir seu futuro na programação:
 
-![crie seu futuro na tecnologia com a dio](https://www.dio.me/sign-up?ref=4A1512D39D6D4FB294B8F64196E568F7)
+https://www.dio.me/sign-up?ref=4A1512D39D6D4FB294B8F64196E568F7
+
+
 ---
 
 ## 🎯 Objetivo
