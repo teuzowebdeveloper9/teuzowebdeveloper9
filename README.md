@@ -1,5 +1,13 @@
 # 👋 Olá! Eu sou Teuzo — Web Developer
 
+
+![image](https://github.com/user-attachments/assets/e8df9add-09b2-4cb4-b450-3fb48e5c2425)
+
+
+
+
+
+
 ![Hello](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado contínuo. Estou constantemente evoluindo, estudando e praticando para alcançar um alto nível técnico e construir soluções de impacto.
