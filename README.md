@@ -61,7 +61,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ## 📊 Estatísticas do GitHub
 
-![teuzo status](https://github-readme-stats.vercel.app/api?username=teuzowebdeveloper9&show_icons=true&theme=radical)
+![teuzo status](https://github-readme-stats.vercel.app/api?username=Luziberto9&show_icons=true&theme=radical)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&layout=compact&theme=radical)
