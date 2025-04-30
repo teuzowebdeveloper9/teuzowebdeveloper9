@@ -62,7 +62,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 ## 📊 Estatísticas do GitHub
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&theme=radical)
+
 
 
 
