@@ -69,6 +69,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 
 ![teuzowebdeveloper9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
 # SOU DIO CAMPUS EXPERT
 
