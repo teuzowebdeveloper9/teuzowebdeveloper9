@@ -43,6 +43,8 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ### 🌐 Frameworks e Plataformas
 
+
+[![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]  
 [![fastfy](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)]  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]  
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]  
