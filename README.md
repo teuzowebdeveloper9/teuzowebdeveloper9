@@ -52,6 +52,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ### ☁️ Deploy e Hospedagem
 
+[![netilify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]  
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]  
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]  
 
