@@ -19,7 +19,21 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 ---
 
 ## 🧠 Sobre Mim
+```javascript
+while(teuzoAlive) {
+    try {
+        code();
+        learn();
+        build();
+        share();
+    } catch(error) {
+        debug(error);
+        grow();
+    }
+}
 
+
+```
 - Estudo **programação todos os dias por no mínimo 8 horas** — seja aprofundando tecnologias, criando projetos próprios ou resolvendo desafios técnicos.
 - Estou em constante aprendizado, sempre buscando entender o "porquê" por trás das soluções.
 - Acredito que dedicação e consistência são as chaves para evoluir de verdade nessa área.
