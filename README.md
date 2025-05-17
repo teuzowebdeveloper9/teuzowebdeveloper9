@@ -90,9 +90,7 @@ while(teuzoAlive) {
 
 ![teuzowebdeveloper9's Stats](https://github-readme-stats.vercel.app/api?username=teuzowebdeveloper9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
-
-![image](https://github.com/user-attachments/assets/d6e3a8fc-cf7e-4477-8b73-d4a8fb7b939e)
+![teuzowebdeveloper9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teuzowebdeveloper9&theme=vue-dark&hide_border=true)
 
 
 
