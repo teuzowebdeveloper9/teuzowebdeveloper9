@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Teuzo — Web Developer - #SOU_DIO_CAMPUS_EXPERT
+# 👋 Olá! Eu sou Teuzo — Web Developer
 
  
 
@@ -95,19 +95,6 @@ while(teuzoAlive) {
 
 
 ![teuzowebdeveloper9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzowebdeveloper9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-# SOU DIO CAMPUS EXPERT
-
-Essa conquista veio com muita dedicação, estudos e prática intensa nos bootcamps e trilhas da DIO. Eu mergulhei de cabeça no conteúdo da plataforma, enfrentei desafios, construí projetos e aproveitei cada oportunidade de aprendizado.
-
-Hoje, como uma das vozes jovens da DIO, posso dizer com orgulho que venho representando uma nova geração de desenvolvedores que está crescendo com apoio, incentivo e educação de qualidade.
-
-A missão da DIO é clara: democratizar o acesso à educação tech e ajudar iniciantes em programação a crescer rapidamente, conectando teoria com prática e aproximando talentos de grandes empresas.
-
-Se você também quer trilhar esse caminho, não perde tempo! Se cadastra agora mesmo e começa a construir seu futuro na programação:
-
-https://www.dio.me/sign-up?ref=4A1512D39D6D4FB294B8F64196E568F7
 
 
 ---
