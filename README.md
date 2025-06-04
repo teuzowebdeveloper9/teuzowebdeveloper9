@@ -27,7 +27,7 @@ public class TeuzoDev {
     private Long esforco = 100L;
     private Long forcaDeVontade = 100L;
     private Long resiliencia = 100L;
-    private Long curiosidade = 100L;
+
 
     private boolean teuzoAlive = true;
 
