@@ -20,20 +20,32 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 
 ## 🧠 Sobre Mim
 ```java
-public class TeuzoDev {
+public abstract class TeuzoDev {
 
-   
-    private Long determinacao = 100L;
-    private Long esforco = 100L;
-    private Long forcaDeVontade = 100L;
-    private Long resiliencia = 100L;
+    private static TeuzoDev instance;
 
+    protected Long determinacao = 100L;
+    protected Long esforco = 100L;
+    protected Long forcaDeVontade = 100L;
+    protected Long resiliencia = 100L;
+    protected Long curiosidade = 100L;
 
-    private boolean teuzoAlive = true;
+    protected boolean teuzoAlive = true;
+    protected boolean desmotivado = false;
 
-   
-    public void viver() {
+    public static TeuzoDev getInstance() {
+        if (instance == null) {
+            instance = new TeuzoDevImpl();
+        }
+        return instance;
+    }
+
+    public final void viver() {
         while (teuzoAlive) {
+            if (desmotivado) {
+                lembrarDoProposito();
+                desmotivado = false;
+            }
             try {
                 code();
                 learn();
@@ -46,32 +58,21 @@ public class TeuzoDev {
         }
     }
 
-    
-    private void code() {
-        System.out.println("Teuzo está codando...");
+    protected abstract void code();
+    protected abstract void learn();
+    protected abstract void build();
+    protected abstract void share();
+    protected abstract void debug(Exception error);
+    protected abstract void grow();
+
+    public void lembrarDoProposito() {
+        System.out.println("Nunca desistir! Eu luto pelos meus sonhos, pela minha evolução e para inspirar outros desenvolvedores, eu sei o que preciso mudar e pelo oque luto.");
     }
 
-    private void learn() {
-        System.out.println("Teuzo está aprendendo coisas novas...");
+    public void setDesmotivado(boolean desmotivado) {
+        this.desmotivado = desmotivado;
     }
 
-    private void build() {
-        System.out.println("Teuzo está construindo projetos incríveis...");
-    }
-
-    private void share() {
-        System.out.println("Teuzo está compartilhando conhecimento...");
-    }
-
-    private void debug(Exception error) {
-        System.out.println("Teuzo está depurando um erro: " + error.getMessage());
-    }
-
-    private void grow() {
-        System.out.println("Teuzo está crescendo como desenvolvedor!");
-    }
-
-    
     public void stop() {
         teuzoAlive = false;
     }
