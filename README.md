@@ -28,7 +28,7 @@ public abstract class TeuzoDev {
     protected Long esforco = 100L;
     protected Long forcaDeVontade = 100L;
     protected Long resiliencia = 100L;
-    protected Long curiosidade = 100L;
+  
 
     protected boolean teuzoAlive = true;
     protected boolean desmotivado = false;
