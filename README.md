@@ -19,19 +19,63 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 ---
 
 ## 🧠 Sobre Mim
-```javascript
-while(teuzoAlive) {
-    try {
-        code();
-        learn();
-        build();
-        share();
-    } catch(error) {
-        debug(error);
-        grow();
+```java
+public class TeuzoDev {
+
+    // Atributos simbólicos da sua jornada
+    private Long determinacao = 100L;
+    private Long esforco = 100L;
+    private Long forcaDeVontade = 100L;
+    private Long resiliencia = 100L;
+    private Long curiosidade = 100L;
+
+    private boolean teuzoAlive = true;
+
+    // Método simbólico da sua rotina
+    public void viver() {
+        while (teuzoAlive) {
+            try {
+                code();
+                learn();
+                build();
+                share();
+            } catch (Exception error) {
+                debug(error);
+                grow();
+            }
+        }
+    }
+
+    
+    private void code() {
+        System.out.println("Teuzo está codando...");
+    }
+
+    private void learn() {
+        System.out.println("Teuzo está aprendendo coisas novas...");
+    }
+
+    private void build() {
+        System.out.println("Teuzo está construindo projetos incríveis...");
+    }
+
+    private void share() {
+        System.out.println("Teuzo está compartilhando conhecimento...");
+    }
+
+    private void debug(Exception error) {
+        System.out.println("Teuzo está depurando um erro: " + error.getMessage());
+    }
+
+    private void grow() {
+        System.out.println("Teuzo está crescendo como desenvolvedor!");
+    }
+
+    
+    public void stop() {
+        teuzoAlive = false;
     }
 }
-
 
 ```
 - Estudo **programação todos os dias por no mínimo 8 horas** — seja aprofundando tecnologias, criando projetos próprios ou resolvendo desafios técnicos.
