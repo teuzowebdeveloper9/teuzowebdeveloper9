@@ -22,7 +22,7 @@ Sou um desenvolvedor web apaixonado por tecnologia, inovação e aprendizado con
 ```java
 public class TeuzoDev {
 
-    // Atributos simbólicos da sua jornada
+   
     private Long determinacao = 100L;
     private Long esforco = 100L;
     private Long forcaDeVontade = 100L;
@@ -31,7 +31,7 @@ public class TeuzoDev {
 
     private boolean teuzoAlive = true;
 
-    // Método simbólico da sua rotina
+   
     public void viver() {
         while (teuzoAlive) {
             try {
