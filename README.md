@@ -110,6 +110,8 @@ public abstract class TeuzoDev {
 
 [![Oracle](https://img.shields.io/badge/oracle-red?logo=oracle&logoColor=white&style=for-the-badge)]
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 🌐 Frameworks e Plataformas
 
