@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Teuzo — Web Developer
+# 👋 Hello! I'm Teuzo— Web Developer
 
 <h1 align="left">About Me</h1>
 
