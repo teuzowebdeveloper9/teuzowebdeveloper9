@@ -1,10 +1,12 @@
-# 👋 Hello! I'm Teuzo— Web Developer
+# 👋 Hello! I'm Teuzo — Web Developer
 
 <h1 align="left">About Me</h1>
 
 ###
 
-<p align="left">I am a Full Stack Developer currently focused on building robust mobile applications with React Native and scalable back-end solutions using Spring Boot, NestJS, and Express. I have solid experience working with relational and non-relational databases, including PostgreSQL, MongoDB, and MySQL. I'm passionate about delivering high-quality code, clean architecture, and modern development practices.</p>
+<p align="left">
+I am a Full Stack Developer currently focused on building robust mobile applications with React Native and scalable back-end solutions using Spring Boot, NestJS, and Express. I have solid experience working with relational and non-relational databases, including PostgreSQL, MongoDB, and MySQL. I'm passionate about delivering high-quality code, clean architecture, and modern development practices.
+</p>
 
 ###
 
@@ -45,11 +47,12 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teuzowebdeveloper9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=teuzowebdeveloper9&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teuzowebdeveloper9&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teuzowebdeveloper9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=teuzowebdeveloper9&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teuzowebdeveloper9&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ###
+
+<h3 align="center">🌎 Here’s Brazil 🇧🇷</h3>
